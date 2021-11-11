@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo :D
 - 👀 I’m interested in learn new technologies and build projects with them.
-- 🌱 I’m currently learning PHP and improving my front-end(html,css,bootstrap,js) skills. 
+- 🌱 I’m currently learning PHP, java and improving my front-end(html,css,bootstrap,js) skills. 
 - 📫 twitter(@rodiivv1)
 
 <!---
