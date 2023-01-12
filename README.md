@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo :D
 - 👀 I’m interested in learn new technologies and build projects with them.
-- 🌱 I’m currently learning react, ts, c# and improving my other(html,css,bootstrap,js,php) skills. 
+- 🌱 I’m currently learning angular, ts, nodeJS and improving my other(html,css,bootstrap,js,php,react) skills. 
 
 
 <!---
