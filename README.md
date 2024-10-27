@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo :D
 - 👀 I’m interested in learn new technologies and build projects with them.
-- 🌱 I’m currently learning angular, ts, nestJS and improving my other(html,css,bootstrap,js,php) skills. 
+
 
 
 <!---
